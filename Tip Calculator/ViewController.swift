@@ -5,7 +5,6 @@
 //  Created by Sam Burrell on 10/3/16.
 //  Copyright © 2016 Sam Burrell. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
